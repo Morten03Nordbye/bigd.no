@@ -112,28 +112,6 @@ body {
   color: #999;
   /* IE8 proofing */
   color: rgba(255, 255, 255, 0.5); }
-
-/*
- * Subscribe modal box
- */
-#subscribeModal .modal-content {
-  background-color: #303546;
-  color: #fff;
-  text-align: left; }
-
-#subscribeModal .modal-header, #subscribeModal .modal-footer {
-  border: 0; }
-
-#subscribeModal .close {
-  color: #fff; }
-
-#subscribeModal .form-control {
-  margin-top: 1rem;
-  background: rgba(0, 0, 0, 0.4);
-  color: #fff; }
-  #subscribeModal .form-control:focus {
-    border-color: #49506a; }
-
 /*
  * Affix and center
  */
