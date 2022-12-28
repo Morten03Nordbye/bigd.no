@@ -1,1 +1,1 @@
-"# bigd.no" 
+"# Funny page" 
